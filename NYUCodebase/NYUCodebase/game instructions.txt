@@ -1,8 +1,0 @@
-Player 1: W for up, S for down
-Player 2: Up for up, Down for down
-
-"Space" starts the game, 'R' resets the game.
-
-The game will reset when it hits either the left or right side borders.
-
-The ball will bounce on the paddles and will increase speed everytime it does.
